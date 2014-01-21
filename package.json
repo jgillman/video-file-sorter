@@ -1,0 +1,19 @@
+{
+  "name": "sorter",
+  "version": "0.0.1",
+  "description": "asdf",
+  "author": {
+    "name": "Joel Gillman",
+    "email": "j@gil.mn",
+    "url": "http://joelgillman.com/"
+  },
+  "dependencies": {
+    "colors": "0.6.x",
+    "glob": "3.2.x",
+    "optimist": "0.6.x",
+    "underscore": "1.5.x"
+  },
+  "engine": "node >= 0.10.24",
+  "license": "MIT"
+}
+
